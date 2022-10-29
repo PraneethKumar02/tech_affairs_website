@@ -10,8 +10,8 @@ const HomeIntro = () => {
         <div className={styles.text2}>Technical Affairs</div>
         <div className={styles.text3}>
           {" "}
-          Lorem lasduf asodifj asdfohas ff asdifuh sdfiuh hjasdf o this sdfhsd
-          saodfhsf sodfhs asofshf saofsd fosgush fodf aosfh sfh
+          The Technical Affairs of IIITDM Kancheepuram actively promotes and manages all technical projects, events, and activities that take place in the Institute. 
+          The council is made up of coordinators, faculty, and student members, all of whom are enthusiastically working to advance the institute's technological capabilities.
         </div>
         <div className={styles.line}>
           <div className={styles.text4}>
